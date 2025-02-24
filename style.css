@@ -2,7 +2,7 @@ body {
     font-family: Montserrat, Lato;
     margin: 0;
     padding: 0;
-    background-color: #BB86FC;
+    background-color: #130F49;
     text-align: center;
 }
 
@@ -26,7 +26,7 @@ h1 {
 }
 
 .project-card {
-    background: white;
+    background: #230046;
     padding: 15px;
     border-radius: 10px;
     box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
@@ -38,13 +38,13 @@ h1 {
 }
 
 .project-card h3 {
-    color: #BB86FC;
+    color: white;
 }
 
 .project-card a {
     text-decoration: none;
-    color: purple;
-    background:#BB86FC;
+    color: white;
+    background:#f7f7f7;
     padding: 8px 12px;
     display: inline-block;
     border-radius: 5px;
