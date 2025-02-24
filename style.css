@@ -40,7 +40,9 @@ h1 {
 .project-card h3 {
     color: white;
 }
-
+.project-card p {
+    color: white;
+}
 .project-card a {
     text-decoration: none;
     color: white;
