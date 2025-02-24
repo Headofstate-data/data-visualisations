@@ -2,12 +2,12 @@ body {
     font-family: Montserrat, Lato;
     margin: 0;
     padding: 0;
-    background-color: #130F49;
+    background-color: #121212;
     text-align: center;
 }
 
 header {
-    background: #03DAC6;
+    background: #130F49;
     color: white;
     padding: 20px;
 }
@@ -38,7 +38,7 @@ h1 {
 }
 
 .project-card h3 {
-    color: white;
+    color: #130F49;
 }
 
 .project-card a {
@@ -56,4 +56,6 @@ footer {
     color: white;
     padding: 10px;
     margin-top: 20px;
+}
+
 }
