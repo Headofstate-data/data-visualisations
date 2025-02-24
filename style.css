@@ -26,7 +26,7 @@ h1 {
 }
 
 .project-card {
-    background: #230046;
+    background: #130F49;
     padding: 15px;
     border-radius: 10px;
     box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
@@ -38,13 +38,16 @@ h1 {
 }
 
 .project-card h3 {
+    color: white;
+}
+.project-card h3 {
     color: #130F49;
 }
 
 .project-card a {
     text-decoration: none;
     color: white;
-    background:#f7f7f7;
+    background:#130F49;
     padding: 8px 12px;
     display: inline-block;
     border-radius: 5px;
