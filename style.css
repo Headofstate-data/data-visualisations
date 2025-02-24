@@ -1,13 +1,13 @@
 body {
-    font-family: Arial, sans-serif;
+    font-family: Montserrat, Lato;
     margin: 0;
     padding: 0;
-    background-color: #f4f4f4;
+    background-color: #121212;
     text-align: center;
 }
 
 header {
-    background: #007bff;
+    background: #03DAC6;
     color: white;
     padding: 20px;
 }
@@ -38,13 +38,13 @@ h1 {
 }
 
 .project-card h3 {
-    color: #007bff;
+    color: #BB86FC;
 }
 
 .project-card a {
     text-decoration: none;
-    color: white;
-    background: #007bff;
+    color: soft purple;
+    background:#BB86FC;
     padding: 8px 12px;
     display: inline-block;
     border-radius: 5px;
