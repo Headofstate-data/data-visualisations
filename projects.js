@@ -1,8 +1,8 @@
 const projects = [
     {
-        title: "Project One",
-        description: "This is my first project. It does amazing things!",
-        link: "https://github.com/yourusername/project-one"
+        title: "Machine Learning ",
+        description: " classification models to conduct sentiment analysis on the given dataset",
+        link: "https://github.com/Headofstate-data/Headofstate-data/compare/main...Headofstate-data-Machinelearning?expand=1"
     },
     {
         title: "Project Two",
